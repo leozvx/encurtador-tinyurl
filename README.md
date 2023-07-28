@@ -4,7 +4,7 @@ This project is a simple TinyURL Shortener.
 
 ## Setup
 
-First you need to download the .zip in: (https://github.com/leozvx/encurtador-tinyurl/tree/download)
+First you need to download the .zip in: https://github.com/leozvx/encurtador-tinyurl/tree/download
 
 ` nodeRange node16 & node18 `
 
@@ -12,7 +12,7 @@ Open the `app.js` in vscode and install the dependencies:
 
 
 ```sh
-const npm install axios
+ npm install axios
 ```
 
 
