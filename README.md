@@ -4,7 +4,7 @@ This project is a simple TinyURL Shortener.
 
 ## Setup
 
-First you need to download the .zip in: https://github.com/leozvx/encurtador-tinyurl/tree/download
+First you need to [download](https://github.com/leozvx/encurtador-tinyurl/tree/download) the .zip.
 
 ` nodeRange node16 & node18 `
 
