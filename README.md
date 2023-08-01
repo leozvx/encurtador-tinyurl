@@ -4,28 +4,27 @@ This project is a simple TinyURL Shortener.
 
 ## Setup
 
-First you need to [download](https://github.com/leozvx/encurtador-tinyurl/tree/download) the .zip.
+1. First you need to [download](https://github.com/leozvx/encurtador-tinyurl/tree/download) the .zip.
 
-` nodeRange node16 & node18 `
+> __Note__
+> Check your node version.
+> nodeRange: node16 & 18
 
-Open the `app.js` in vscode and install the dependencies:
 
-
+2. Open the `app.js` in vscode and install the dependencies:
 ```sh
  npm install axios
 ```
 
-
-
-In the code you need to change your API token:
+3.In the code you need to change your API token:
 
 ```js
 const TinyAPI = "YOUR TOKEN"
 ```
 
-After that create a `links.txt`
+4. After that create a `links.txt`
 
-The last step is open the script.bat and will generate a randomic.txt with the result.
+5. The last step is open the script.bat and will generate a "randomic.txt" with the result.
 
 ## Questions
 
